@@ -19,8 +19,8 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 
 ## Program:
 ```
-Developed by: Ramya P
-RegisterNumber:  212223230168
+Developed by: NAVEEN.S
+RegisterNumber:  212223240106
 ```
 ~~~
 import pandas as pd
